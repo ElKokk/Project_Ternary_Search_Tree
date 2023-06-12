@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="19eccead-71f0-496c-a61d-ec8938c39689" name="Changes" comment="Setting the Project's outline">
-      <change beforePath="$PROJECT_DIR$/.idea/Project_Concepts_of_Data_Science.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Project_Concepts_of_Data_Science.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+    <list default="true" id="19eccead-71f0-496c-a61d-ec8938c39689" name="Changes" comment="Configured prefix string search in the search and insert methods. Insert now use search to check if a key or its prefix already exists in the tree before inserting a new key. Removed the keys_with_prefix method.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/PROJECT.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/PROJECT.ipynb" afterDir="false" />
     </list>
@@ -49,7 +47,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "Introduction",
+    "git-widget-placeholder": "Python__Implementation",
     "ignore.virus.scanning.warn.message": "true"
   }
 }]]></component>
@@ -72,6 +70,11 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Setting the Project's outline" />
-    <option name="LAST_COMMIT_MESSAGE" value="Setting the Project's outline" />
+    <MESSAGE value="Defining  Node and TST classes, as well as methods for searching and inserting" />
+    <MESSAGE value="Modified the __repr__ method to display the nodes with identation levels based on the tree depth and added Documentation." />
+    <MESSAGE value="Modified TST class to include an empty root node and to be able to account for empty strings." />
+    <MESSAGE value="Modified insert/search to take only 1 argument. Changed the output to False when string not found." />
+    <MESSAGE value="Configured prefix string search in the search and insert methods. Insert now use search to check if a key or its prefix already exists in the tree before inserting a new key. Removed the keys_with_prefix method." />
+    <option name="LAST_COMMIT_MESSAGE" value="Configured prefix string search in the search and insert methods. Insert now use search to check if a key or its prefix already exists in the tree before inserting a new key. Removed the keys_with_prefix method." />
   </component>
 </project>

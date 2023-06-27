@@ -1,13 +1,3 @@
 # Project_Concepts_of_DataScience
 
-Expected:
-
-
-An object-oriented implementation of ternary search tree.
-The implementation should be documented.
-The implementation should pass the tests provided in the notebook below.
-You can add additional tests if required.
-A discussion of the expected complexity of the operations that are implemented (insert, search, all_strings), this is based on an analysis of the algorithms.
-Benchmark the scaling behaviour of the implementation, i.e., test whether your implementation meets the theoretical expectations.  To do this, you may have to generate a larger dataset.  Include the code for that as well.
-Provide a  conda environment file to create an environment that can run your notebook.
-For version control, use informative commit messages, and use branches to implement features.
+The goal of this project is to implement a Ternary Search Tree (TST) in Python, with operations for insertion, searching, and retrieving all strings. We will also analyze the time complexity of these operations and benchmark the implementation to verify its performance characteristics. In the end, this project should be able to provide an understanding of TSTs and their performance characteristics, as well as a working implementation of a TST in Python.
